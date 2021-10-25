@@ -1,0 +1,28 @@
+body,
+html {
+  height: 100%;
+  background-image: url("../../images/bg.jpg");
+}
+.main-container {
+  background-image: url("../../images/Rz4jlM.jpg");
+  background-color: #13141b;
+  color: #ffffff;
+  background-repeat: repeat;
+  background-size: cover;
+  background-position: top;
+  height: 100vh;
+}
+.input-style {
+  padding: 10px 10px;
+  border-radius: 25px;
+}
+.btn-style {
+  padding: 10px 10px;
+  border-radius: 25px;
+  background: linear-gradient(70deg, #2bde8c, #0fe728);
+  font-weight: 700;
+}
+.search-bar h1 {
+  font-weight: 700;
+}
+
